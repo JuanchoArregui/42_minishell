@@ -1,0 +1,11 @@
+
+*.o
+*.d
+kk*
+*kk
+*.txt
+*.log
+*.a
+minishell
+/minishell_tester
+/.vscode
